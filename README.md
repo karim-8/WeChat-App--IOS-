@@ -1,2 +1,2 @@
-# Flash-Chat
+# WeChat
 
